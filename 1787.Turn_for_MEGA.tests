@@ -1,0 +1,21 @@
+
+# Problem: 1787. Turn for MEGA
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1787
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        5 3
+        6 7 2
+        
+    out: |
+        0
+        
+- Sample2: 
+    in: |
+        5 3
+        20 0 0
+        
+    out: |
+        5
+        

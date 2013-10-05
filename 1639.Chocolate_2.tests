@@ -1,0 +1,15 @@
+
+# Problem: 1639. Chocolate 2
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1639
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        2 4
+    out: |
+        [:=[first]
+- Sample2: 
+    in: |
+        1 3
+    out: |
+        [second]=:]

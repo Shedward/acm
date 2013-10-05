@@ -1,0 +1,38 @@
+
+# Problem: 1197. Lonesome Knight
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1197
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        a1
+        d4
+        g6
+        
+    out: |
+        2
+        8
+        6
+        
+- Sample1: 
+    in: |
+        7
+        a1
+        d4
+        g6
+        a1
+        d4
+        h8
+        c2
+        g2
+        
+    out: |
+        2
+        8
+        6
+        2
+        8
+        2
+        6
+        

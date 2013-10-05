@@ -1,0 +1,17 @@
+
+# Problem: 1880. Psych Up's Eigenvalues
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1880
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        5
+        13 20 22 43 146
+        4
+        13 22 43 146
+        5
+        13 43 67 89 146
+        
+    out: |
+        3
+        

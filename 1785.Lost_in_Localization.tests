@@ -1,0 +1,17 @@
+
+# Problem: 1785. Lost in Localization
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1785
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        7
+    out: |
+        several
+        
+- Sample2: 
+    in: |
+        40
+        
+    out: |
+        lots

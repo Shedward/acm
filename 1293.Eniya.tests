@@ -1,0 +1,10 @@
+
+# Problem: 1293. Eniya
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1293
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        5 2 3
+    out: |
+        60

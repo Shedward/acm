@@ -1,0 +1,21 @@
+
+# Problem: 1877. Bicycle Codes
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1877
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        0001
+        0000
+        
+    out: |
+        no
+        
+- Sample2: 
+    in: |
+        0002
+        0001
+        
+    out: |
+        yes
+        

@@ -1,0 +1,13 @@
+
+# Problem: 1910. Titan Ruins: Hidden Entrance
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1910
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        6
+        1 4 4 4 1 1
+        
+    out: |
+        12 3
+        
