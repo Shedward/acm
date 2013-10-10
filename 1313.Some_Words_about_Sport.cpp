@@ -12,38 +12,25 @@ int main()
 	unsigned char size = 0;
 	scanf("%u", &size);
 
-	auto *sig = new unsigned char[size*size];
+	auto *pix = new unsigned char[size*size];
 
-	for (int i = 0; i < size*size; ++i)
-	{
-		scanf("%u", &sig[i]);
+	for (int i = 0; i < size*size; ++i){
+		scanf("%u", &pix[i]);
 	}
 
-	int c = -1, r = 1;
-	while (c < size - 1){
-		r--; c++;
-		if (r < 0){
-			r = c;
-			c = 0;
+	for (int r0 = 0; r0 < size; ++r0){
+		for (int c = 0, r = r0; r >= 0; ++c, --r){
+			printf("%u ", pix[r*size + c]);
 		}
-		printf("%u ", sig[r*size + c]);
 	}
 
-	c = 1;
-	r = size - 1;
-	while (c < size - 1 or r < size - 1){
-		printf("%u ", sig[r*size + c]);
-		
-		r--; c++;
-		if (c >= size){
-			c = r + 2;
-			r = size - 1;
+	for (int c0 = 1; c0 < size; ++c0){
+		for (int c = c0, r = size - 1; c < size; ++c, --r){
+			printf("%u ", pix[r*size + c]);
 		}
-
 	}
-	printf("%u ", sig[size*size - 1]);
 
-	delete[] sig;
+	delete[] pix;
 	return 0;
 }
 
