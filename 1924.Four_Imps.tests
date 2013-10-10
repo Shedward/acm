@@ -1,0 +1,19 @@
+
+# Problem: 1924. Four Imps
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1924
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        1
+        
+    out: |
+        grimy
+        
+- Sample2: 
+    in: |
+        4
+        
+    out: |
+        black
+        
