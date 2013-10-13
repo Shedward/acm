@@ -1,0 +1,12 @@
+
+# Problem: 1567. SMS-spam
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1567
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        pokupaite gvozdi tolko v kompanii gvozdederov i tovarischi!
+        
+    out: |
+        114
+        
