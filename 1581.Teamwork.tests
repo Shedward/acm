@@ -1,0 +1,13 @@
+
+# Problem: 1581. Teamwork
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1581
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        8
+        1 1 2 3 3 3 10 10
+        
+    out: |
+        2 1 1 2 3 3 2 10
+        
