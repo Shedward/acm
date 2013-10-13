@@ -1,0 +1,15 @@
+
+# Problem: 1319. Hotel
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1319
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        
+    out: |
+        4 2 1
+        7 5 3
+        9 8 6
+        
+        
