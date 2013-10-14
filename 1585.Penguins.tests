@@ -1,0 +1,19 @@
+
+# Problem: 1585. Penguins
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1585
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        7
+        Emperor Penguin
+        Macaroni Penguin
+        Little Penguin
+        Emperor Penguin
+        Macaroni Penguin
+        Macaroni Penguin
+        Little Penguin
+        
+    out: |
+        Macaroni Penguin
+        
