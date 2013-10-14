@@ -1,0 +1,12 @@
+
+# Problem: 1876. Centipede's Morning
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1876
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        40 40
+        
+    out: |
+        120
+        
