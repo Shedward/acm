@@ -1,0 +1,18 @@
+
+# Problem: 1263. Elections
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1263
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3 6
+        1
+        2
+        3
+        2
+        1
+        1
+    out: |
+        50.00%
+        33.33%
+        16.67%
