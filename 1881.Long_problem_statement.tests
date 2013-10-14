@@ -1,0 +1,18 @@
+
+# Problem: 1881. Long problem statement
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1881
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3 5 6
+        To
+        be
+        or
+        not
+        to
+        be
+        
+    out: |
+        2
+        
