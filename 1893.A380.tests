@@ -1,0 +1,26 @@
+
+# Problem: 1893. A380
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1893
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3C
+        
+    out: |
+        aisle
+        
+- Sample2: 
+    in: |
+        64A
+        
+    out: |
+        window
+        
+- Sample3: 
+    in: |
+        21F
+        
+    out: |
+        neither
+        
