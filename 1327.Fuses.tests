@@ -1,0 +1,21 @@
+
+# Problem: 1327. Fuses
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1327
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        1
+        5
+        
+    out: |
+        3
+        
+- Sample2: 
+    in: |
+        100
+        200
+        
+    out: |
+        50
+        
