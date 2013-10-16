@@ -1,0 +1,18 @@
+
+# Problem: 1110. Power
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1110
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        2 6 4
+    out: |
+        2 4
+
+- Big:
+    in: 998 999 972
+    out: 48 63 159 174 270 285 381 396 492 507 603 618 714 729 825 840 936 951
+
+- No answer:
+    in: 998 999 900
+    out: -1
