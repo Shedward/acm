@@ -1,0 +1,43 @@
+
+# Problem: 1493. One Step from Happiness
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1493
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        715068
+        
+    out: |
+        Yes
+        
+- Sample2: 
+    in: |
+        445219
+        
+    out: |
+        No
+        
+- Sample3: 
+    in: |
+        012200
+        
+    out: |
+        Yes
+
+- Less than zero:
+    in: |
+        010200
+    out: |
+        No
+
+- Zeros:
+    in: |
+        000001
+    out: |
+        Yes
+
+- One less with zeros:
+    in: |
+        200001
+    out: |
+        Yes
