@@ -1,0 +1,15 @@
+
+# Problem: 1243. Divorce of the Seven Dwarfs
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1243
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        123456123456
+        
+    out: |
+        1
+
+- Divided:
+    in: 48916
+    out: 0
