@@ -1,0 +1,21 @@
+
+# Problem: 1545. Hieroglyphs
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1545
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        6
+        na
+        no
+        ni
+        ki
+        ka
+        ku
+        k
+        
+    out: |
+        ka
+        ki
+        ku
+        
