@@ -1,0 +1,19 @@
+
+# Problem: 1349. Farm
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1349
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        0
+        
+    out: |
+        -1
+        
+- Sample2: 
+    in: |
+        1
+        
+    out: |
+        1 2 3
+        
