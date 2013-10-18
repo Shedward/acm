@@ -1,0 +1,32 @@
+
+# Problem: 1636. Penalty Time
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1636
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        290 420
+        0 0 0 2 1 0 2 0 1 0
+        
+    out: |
+        No chance.
+        
+- Sample2: 
+    in: |
+        300 719
+        0 0 0 0 0 0 21 0 0 0
+        
+    out: |
+        Dirty debug :(
+
+- Equal:
+    in: |
+        100 100
+        0 0 0 0 0 0 1 0 0 0
+    out: Dirty debug :(
+
+- Equal and zeros:
+    in: |
+        100 100
+        0 0 0 0 0 0 0 0 0 0
+    out: No chance.
