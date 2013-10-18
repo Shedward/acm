@@ -1,0 +1,22 @@
+
+# Problem: 1496. Spammer
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1496
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        11
+        naucoder
+        iceman
+        abikbaev
+        abikbaev
+        petr
+        abikbaev
+        abikbaev
+        x
+        abikbaev
+        acrush
+        x
+    out: |
+        abikbaev
+        x
