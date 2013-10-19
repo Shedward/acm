@@ -1,0 +1,14 @@
+
+# Problem: 1149. Sinus Dances
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1149
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+    out: |
+        ((sin(1)+3)sin(1-sin(2))+2)sin(1-sin(2+sin(3)))+1
+
+- N = 1:
+    in: 1
+    out: sin(1)+1
