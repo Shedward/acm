@@ -1,0 +1,14 @@
+
+# Problem: 1723. Sandro's Book
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1723
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        tebidohtebidoh
+    out: |
+        b
+
+- Another case:
+    in: jgghggdkkdnnyrblkl
+    out: g
