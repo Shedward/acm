@@ -1,0 +1,18 @@
+
+# Problem: 1792. Hamming Code
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1792
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        0 1 0 1 1 0 1
+        
+    out: |
+        0 1 0 0 1 0 1
+        
+- Sample2: 
+    in: |
+        1 1 1 1 1 1 1
+        
+    out: |
+        1 1 1 1 1 1 1
