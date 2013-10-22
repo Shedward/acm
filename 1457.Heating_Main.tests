@@ -1,0 +1,13 @@
+
+# Problem: 1457. Heating Main
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1457
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        7 4 5
+        
+    out: |
+        5.333333
+        
