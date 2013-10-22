@@ -1,0 +1,19 @@
+
+# Problem: 1131. Copying
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1131
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        8 3
+        
+    out: |
+        4
+
+- One computer:
+    in: 1 1
+    out: 0
+
+- Big num:
+    in: 1000000000 1
+    out: 999999999
