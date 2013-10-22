@@ -1,0 +1,13 @@
+
+# Problem: 1025. Democracy in Danger
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1025
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        5 7 5
+        
+    out: |
+        6
+        
