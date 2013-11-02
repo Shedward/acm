@@ -1,0 +1,32 @@
+
+# Problem: 1712. Cipher Grille
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1712
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        ....
+        X..X
+        .X..
+        ...X
+        Pwoo
+        Khaa
+        smrs
+        odbk
+        
+    out: |
+        KamkohobPassword
+
+- Abcd: 
+    in: |
+        ....
+        X..X
+        .X..
+        ...X
+        imen
+        afjb
+        kcol
+        gphd
+        
+    out: |
+        abcdefghijklmnop
