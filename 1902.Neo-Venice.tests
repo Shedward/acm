@@ -1,0 +1,14 @@
+
+# Problem: 1902. Neo-Venice
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1902
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        2 60 600
+        600 630
+        
+    out: |
+        630.000000
+        645.000000
+        
