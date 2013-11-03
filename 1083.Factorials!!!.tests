@@ -1,0 +1,12 @@
+
+# Problem: 1083. Factorials!!!
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1083
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        9 !!
+        
+    out: |
+        945
+        
