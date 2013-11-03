@@ -1,0 +1,15 @@
+
+# Problem: 1290. Sabotage
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1290
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        4
+        1
+        6
+    out: |
+        6
+        4
+        1
