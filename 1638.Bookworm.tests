@@ -1,0 +1,16 @@
+
+# Problem: 1638. Bookworm
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1638
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        10 1 1 2
+        
+    out: |
+        2
+
+- a1 > an:
+    in: 10 1 2 0
+    out: 34
+        
