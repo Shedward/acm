@@ -1,0 +1,19 @@
+
+# Problem: 1139. City Blocks
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1139
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        4 3
+        
+    out: |
+        4
+        
+- Sample2: 
+    in: |
+        3 3
+        
+    out: |
+        2
+        
