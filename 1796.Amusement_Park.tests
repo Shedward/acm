@@ -1,0 +1,22 @@
+
+# Problem: 1796. Amusement Park
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1796
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        0 2 0 0 0 0
+        10
+        
+    out: |
+        5
+        6 7 8 9 10
+        
+- Sample2: 
+    in: |
+        1 2 0 0 0 0
+        10
+        
+    out: |
+        1
+        11
