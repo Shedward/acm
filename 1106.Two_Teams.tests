@@ -1,0 +1,20 @@
+
+# Problem: 1106. Two Teams
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1106
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        7
+        2 3 0
+        3 1 0
+        1 2 4 5 0
+        3 0
+        3 0
+        7 0
+        6 0
+        
+    out: |
+        4
+        2 4 5 6
+        
