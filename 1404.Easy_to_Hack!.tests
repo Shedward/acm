@@ -1,0 +1,17 @@
+
+# Problem: 1404. Easy to Hack!
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1404
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        xbduyr
+        
+    out: |
+        secret
+
+- Test2:
+    in: | 
+        nataehllelnne
+        
+    out: inthedeathcar
