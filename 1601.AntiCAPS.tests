@@ -1,0 +1,18 @@
+
+# Problem: 1601. AntiCAPS
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1601
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        HI THERE! ITS COOL.
+        HOW DID YOU KNOW I AM A BLONDE?
+    out: |
+        Hi there! Its cool.
+        How did you know i am a blonde?
+
+- Many puncts:
+    in: |
+        HI!!!! I So, Much LOVE YOU!!
+    out: |
+        Hi!!!! I so, much love you!!
