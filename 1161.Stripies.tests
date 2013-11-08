@@ -1,0 +1,13 @@
+
+# Problem: 1161. Stripies
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1161
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3
+        72
+        30
+        50
+    out: |
+        120.00
