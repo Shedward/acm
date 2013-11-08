@@ -1,0 +1,32 @@
+
+# Problem: 1642. 1D Maze
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1642
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        3 -2
+        -10 -4 2
+        
+    out: |
+        6 2
+- Sample2: 
+    in: |
+        3 -2
+        10 -1 2
+    out: |
+        Impossible
+
+- Exit in front:
+    in: |
+        3 2
+        -5 3 5
+    out: |
+        2 12
+
+- More obstacles:
+    in: |
+        10 2
+        -2 -3 5 4 10 -5 -1 -1000 12 1000
+    out: |
+        2 4
