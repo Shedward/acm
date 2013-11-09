@@ -1,0 +1,11 @@
+
+# Problem: 1731. Dill
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1731
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        2 3
+    out: |
+        1 2
+        5 10 12
