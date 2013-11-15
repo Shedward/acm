@@ -1,0 +1,25 @@
+
+# Problem: 1510. Order
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1510
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        5
+        3
+        3
+        2
+        2
+        3
+    out: |
+        3
+
+- One:
+    in: |
+        1
+        1
+    out: 1
+
+- Worse case:
+    in file: 1510.Order.in1
+    out: 500000001
