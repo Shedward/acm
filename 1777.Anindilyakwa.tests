@@ -1,0 +1,39 @@
+
+# Problem: 1777. Anindilyakwa
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1777
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        11 5 9
+        
+    out: |
+        3
+
+- Already have similar piles:
+    in: 5 5 3
+    out: 1
+
+- First bringed pile same existed:
+    in: 1 2 3
+    out: 2
+
+- Big nums:
+    in: 75000000000000000 50000000000000000 25000000000000000
+    out: 2
+
+- Big nums 2:
+    in: 1000000000000000000 999999999999999990 999999999999999999
+    out: 3
+
+- Big nums 3:
+    in: 1000000000000000000 10 500000000000000000
+    out: 3
+
+- Big nums 4:
+    in: 1000000000000000000 500000000000000000 250000000000000000
+    out: 2
+
+- 4:
+    in: 10 5 3
+    out: 4
