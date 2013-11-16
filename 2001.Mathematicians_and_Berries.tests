@@ -1,0 +1,14 @@
+
+# Problem: 2001. Mathematicians and Berries
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=2001
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        1 2
+        2 1
+        0 3
+        
+    out: |
+        1 1
+        
