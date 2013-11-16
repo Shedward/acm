@@ -1,0 +1,13 @@
+
+# Problem: 1991. The battle near the swamp
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1991
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        4 5
+        2 7 5 0
+        
+    out: |
+        2 8
+        
