@@ -1,0 +1,12 @@
+
+# Problem: 1005. Stone Pile
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=1005
+# Author: Shed (86286AA)
+
+- Sample1: 
+    in: |
+        5
+        5 8 13 27 14
+        
+    out: |
+        3
