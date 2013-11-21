@@ -31,7 +31,7 @@ Num find_mindiff(std::vector<Num> &v) {
 
 int main()
 {
-	std::vector<Num> v(3, 0);
+	std::vector<Num> v(3);
 	std::cin >> v[0] >> v[1] >> v[2];
 	v.reserve(10);
 
