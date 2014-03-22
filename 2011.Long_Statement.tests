@@ -1,0 +1,26 @@
+
+# Problem: 2011. Long Statement
+# Url: http://acm.timus.ru/problem.aspx?space=1&num=2011
+# Author: Shed (86286AA)
+
+- Sample1:
+    in: |
+        6
+        1 2 2 3 3 3
+        
+    out: |
+        Yes
+
+- 13 test:
+    in: |
+        7
+        1 1 1 1 1 1 2
+    out: |
+        Yes
+
+- 13 test2:
+    in: |
+        4
+        1 1 2 2
+    out: |
+        Yes
