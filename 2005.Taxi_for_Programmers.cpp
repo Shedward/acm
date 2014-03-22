@@ -27,12 +27,12 @@ int main()
 
 	for(unsigned i = 0; i < 4; ++i) {
 		int cur_length = 0;
-		
+
 		for(unsigned j = 0; j < 4; ++j) {
 			int from = path[i][j] - 1;
 			int to = path[i][j+1] - 1;
 			cur_length += dist[from][to];
-		}
+		}	
 
 		if (cur_length <= min_length){
 			min_length = cur_length;
